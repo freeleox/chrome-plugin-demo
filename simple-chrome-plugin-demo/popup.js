@@ -1,1 +1,1 @@
-﻿console.log('你好，我是popup！');
+﻿console.log('版本：1.0.0，开发者：Leo');

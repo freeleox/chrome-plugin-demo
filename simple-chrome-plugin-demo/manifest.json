@@ -1,17 +1,17 @@
 {
 	"manifest_version": 2,
-	"name": "Chrome插件demo",
+	"name": "美团自动回复评价插件",
 	"version": "1.0",
-	"description": "最简单的Chrome插件demo，需要快速做一个简单的插件时可以基于这个仓库开发",
-	"author": "sxei",
+	"description": "基于js开发，美团自动回复评价插件",
+	"author": "Leo",
 	"icons":
 	{
-		"48": "icon.png",
-		"128": "icon.png"
+		"48": "icon.jpg",
+		"128": "icon.jpg"
 	},
 	"browser_action": 
 	{
-		"default_icon": "icon.png",
+		"default_icon": "icon.jpg",
 		"default_popup": "popup.html"
 	},
 	"content_scripts": 

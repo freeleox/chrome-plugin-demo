@@ -1,3 +1,3 @@
 ﻿(function() {
-	console.log('这是 simple-chrome-plugin-demo 的content-script！');
+	console.log('这是 reply-auto-demo 的content-script！');
 })();
